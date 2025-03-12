@@ -1,4 +1,4 @@
-import { Endereco, Telefone, Cliente, Empresa } from './atividadeDeFixacaoRJ4.js';
+import { Endereco, Telefone, Cliente, Empresa } from './RJ4.js';
 
 
 const enderecoEmpresa = new Endereco("SP", "São José dos Campos", "Av Andrômeda", 1000);
